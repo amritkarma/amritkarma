@@ -55,15 +55,13 @@ I build modern web applications using scalable, secure, and maintainable archite
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritkarma&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritkarma&layout=compact&hide_border=true" width="48%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=amritkarma&theme=default&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amritkarma&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=amritkarma&theme=flat&no-frame=true&row=1&column=6" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritkarma&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritkarma&layout=compact&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=amritkarma&theme=flat&no-frame=true&row=1&column=6)
 
 ---
 
