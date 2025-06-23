@@ -55,7 +55,7 @@ I build modern web applications using scalable, secure, and maintainable archite
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=amritkarma&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?username=amritkarma&theme=default&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritkarma&show_icons=true&theme=default&hide_border=true)
 
