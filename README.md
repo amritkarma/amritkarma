@@ -57,10 +57,11 @@ I build modern web applications using scalable, secure, and maintainable archite
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amritkarma&theme=default&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritkarma&show_icons=true&theme=default&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritkarma&layout=compact&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=amritkarma&theme=flat&no-frame=true&row=1&column=6)
-
 ---
 
 ## 🌐 Get in Touch
