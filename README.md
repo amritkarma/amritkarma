@@ -6,6 +6,10 @@ I build modern web applications using scalable, secure, and maintainable archite
 
 ---
 
+![GitHub Banner](https://github.com/amritkarma/amritkarma/blob/main/github-banner.png)
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
