@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @amritkarma
+# 👋 Hi, I’m Amrit Vishwakarma
 
 # 👨‍💻 Full Stack Developer
 
