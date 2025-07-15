@@ -6,8 +6,6 @@ I build modern web applications using scalable, secure, and maintainable archite
 
 ---
 
----
-
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
