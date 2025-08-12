@@ -68,7 +68,7 @@ I build modern web applications using scalable, secure, and maintainable archite
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritkarma)  
 <!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://arcforger.com)  
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 -->
 ---
